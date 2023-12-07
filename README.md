@@ -29,4 +29,4 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-siddiqua88&" alt="ayesha-siddiqua88" /></p>
 
 <br><br><br><br><br><br><br><br><br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayesha-siddiqua88" alt="ayesha-siddiqua88" /></a> </p>
+<p align="left"> <a href="https://github.com/Ayesha-Siddiqua88/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayesha-siddiqua88" alt="ayesha-siddiqua88" /></a> </p>
