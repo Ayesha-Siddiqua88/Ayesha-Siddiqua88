@@ -8,22 +8,23 @@
 <br>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayesha-siddiqua-a13624255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayesha-siddiqua-a13624255/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/ayesha_1803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayesha_1803/" height="30" width="40" /></a>
 </p>
+<br>
 
-
+<h2>📊 Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesha-siddiqua88&show_icons=true&locale=en&layout=compact" alt="ayesha-siddiqua88" /></p>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayesha-siddiqua88&show_icons=true&locale=en" alt="ayesha-siddiqua88" /></p>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-siddiqua88&" alt="ayesha-siddiqua88" /></p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <p align="left"> <a href="https://github.com/Ayesha-Siddiqua88/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayesha-siddiqua88" alt="ayesha-siddiqua88" /></a> </p>
