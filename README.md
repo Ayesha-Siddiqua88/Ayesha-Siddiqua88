@@ -38,14 +38,10 @@
 <br>
 
 <h2>📊 Github Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesha-siddiqua88&show_icons=true&locale=en&layout=compact" alt="ayesha-siddiqua88" /></p>
+<div >
+<img style="height: auto; width: 35%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesha-siddiqua88&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
 
-<br><br><br><br><br><br><br><br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayesha-Siddiqua88&theme=merko)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ayesha-siddiqua88&show_icons=true&locale=en" alt="ayesha-siddiqua88" /></p>
-
-<br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-siddiqua88&" alt="ayesha-siddiqua88" /></p>
-
-<br><br><br><br><br><br><br><br><br>
-<p><a href="https://github.com/Ayesha-Siddiqua88/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayesha-siddiqua88" alt="ayesha-siddiqua88" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayesha-siddiqua88&theme=onestar)](https://github.com/ayesha-siddiqua88/github-profile-trophy)
